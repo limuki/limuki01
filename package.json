@@ -1,0 +1,18 @@
+{
+  "name": "limuki01",
+  "theme": "syntax",
+  "version": "0.5.0",
+  "description": "สล็อต789step แนะนำสล็อตเว็บตรง2566",
+  "repository": "https://github.com/limuki/limuki01",
+echo "# limuki01" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/limuki/limuki01.git
+git push -u origin main
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
